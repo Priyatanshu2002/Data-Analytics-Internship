@@ -41,8 +41,6 @@ The **Gap Down Recovery Strategy** is a momentum-based trading technique that:
 ## 🧠 Requirements
 
 Ensure you have the following Python libraries installed:
-
-```bash
 pip install pandas numpy yfinance tqdm openpyxl
 
 ## 🚀 How to Use
